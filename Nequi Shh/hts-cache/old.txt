@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:54:25	1331/1331	---MCZ	404	error ('Not%20Found')	text/html	etag:1729245023-ssl-df	https://nequidz2.netlify.app/robots.txt		(from )
+21:54:25	13896/13896	---M-Z	200	added ('OK')	text/html	etag:%2273d70758b1b51364c17c35178d33166d-ssl-df%22	https://nequidz2.netlify.app/	C:/Users/KELLYS/Desktop/descarga-web/Nequi%20Shh/nequidz2.netlify.app/index.html	(from )
+21:54:26	89220/89220	---M-Z	200	added ('OK')	text/css	etag:%22620188b3-468e%22	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css	C:/Users/KELLYS/Desktop/descarga-web/Nequi%20Shh/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css	(from https://nequidz2.netlify.app/)
+21:54:27	0/0	---M--	302	error ('Moved%20Temporarily')	text/html	date:Tue,%2022%20Apr%202025%2002:54:28%20GMT	https://i.imgur.com/X3qYQ9j.png	C:/Users/KELLYS/Desktop/descarga-web/Nequi%20Shh/i.imgur.com/X3qYQ9j.1.delayed	(from https://nequidz2.netlify.app/)
